@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/7fea2c45-b4d1-4505-ad32-03f3d438c101/resourceGroups/RG_AD_OPENAI/providers/Microsoft.Web/sites/ADAIweb",
+    "appService.deploySubpath": "."
+}
